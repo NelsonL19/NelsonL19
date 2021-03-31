@@ -19,4 +19,4 @@
 ### My Github Stats <p align="left"><br><img src="https://komarev.com/ghpvc/?username=nelsonl19&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonl19" />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NelsonL19&count_private=true&theme=onedark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&layout=compact&langs_count=10&theme=onedark&show_icons=true&hide=jupyter%20notebook)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&layout=compact&langs_count=10&theme=onedark&hide=jupyter%20notebook)]()
