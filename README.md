@@ -21,4 +21,4 @@
 ### My Github Stats 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NelsonL19&count_private=true&theme=onedark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&layout=compact&langs_count=10&theme=onedark&show_icons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&hide=Jupyter Notebook&layout=compact&langs_count=10&theme=onedark&show_icons=true)]()
