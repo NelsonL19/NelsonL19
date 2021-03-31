@@ -20,5 +20,5 @@
 
 ### My Github Stats 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NelsonL19&count_private=true&theme=gruvbox&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&layout=compact&langs_count=5&theme=gruvbox)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NelsonL19&count_private=true&theme=merko&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonL19&layout=compact&langs_count=5&theme=merko)]()
