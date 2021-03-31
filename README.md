@@ -1,7 +1,8 @@
 
 
 <!--
-**NelsonL19/NelsonL19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NelsonL19/NelsonL19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 <h1 align="center">Hey there, I'm Nelson Lopez</h1>
 <h3 align="center">A Senior from UNC Chapel Hill who's majoring in Computer Science in the B.S. Track</h3>
