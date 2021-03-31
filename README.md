@@ -4,7 +4,7 @@
 **NelsonL19/NelsonL19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-<h1 align="center">Hey there, I'm Nelson Lopez</h1>
+<h1 align="center">I'm Nelson Lopez</h1>
 <h3 align="center">A Senior from UNC Chapel Hill who's majoring in Computer Science in the B.S. Track</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonl19&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonl19" /> </p>
