@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">I'm Nelson Lopez</h1>
-<h3 align="center">A Senior from UNC Chapel Hill who's majoring in Computer Science in the B.S. Track</h3>
+<h3 align="center">A Recent Graduate from UNC Chapel Hill who has a Computer Science B.S. Degree</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
